@@ -25,4 +25,9 @@ Fejl i library(KernSmoth) : der er ingen pakke med navn ‘KernSmoth’
 > library(KernSmooth)
 KernSmooth 2.23 loaded
 Copyright M. P. Wand 1997-2009
+> search()
+ [1] ".GlobalEnv"         "package:KernSmooth" "tools:RGUI"        
+ [4] "package:stats"      "package:graphics"   "package:grDevices" 
+ [7] "package:utils"      "package:datasets"   "package:methods"   
+[10] "Autoloads"          "package:base"      
 > 
